@@ -1,4 +1,4 @@
-# Улучшение процесса обогащения золота
+# Выбор локации для скважины
 
 [ipynb](https://github.com/NickMesch/Practicum/blob/main/Oil%20rig%20location/Oil_rig_location.ipynb)
 
